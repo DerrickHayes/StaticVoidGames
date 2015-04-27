@@ -212,6 +212,7 @@ If that's confusing, it's okay. You can use web notation and the color() functio
 ### Exercises
 
   * How old are you in hexadecimal?
+    ##### Seizure Warining: It is easy to accidentally create a flashing screen when completing the next exercise. If you insist on continuing then please make sure you create the next exercise in the setup() function and NOT the draw() function.
   * Write a program with a random background color and draws an ellipse, a rectangle, and a triangle with different random colors at random locations on the screen. Hint: the random() function might be useful, check out the Processing API!
 
 ###  Next: [Writing Your Own Functions](WritingYourOwnFunctions.jsp)
